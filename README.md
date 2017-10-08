@@ -1,6 +1,6 @@
 # AdaptiveGraphics
 
-AdaptiveGraphics
+About
 ----------------
 - A cross-platform Unity Asset
 - Written by Grig Bilham of Lumeneo.com
