@@ -3,7 +3,7 @@
 About
 ----------------
 - A cross-platform Unity Asset
-- Written by Grig Bilham of Lumeneo.com
+- Written by Grig Billam of Lumeneo.com
 
 
 Quick Start
